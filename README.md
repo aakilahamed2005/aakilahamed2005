@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aakilahamed2005@gmail.com**
 
-- ⚡ Fun fact **I like learning, solving and teaching**
+- ⚡ Fun fact **is that I like learning, solving and teaching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
