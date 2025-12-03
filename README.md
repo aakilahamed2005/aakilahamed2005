@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakil Ahamed</h1>
 <h3 align="center">IT Undergraduate | Learning AI/ML, Data Science & Software Engineering</h3>
 
-- 🌱 I’m currently following **BSc(Hons) in Information Technology**
+- 🌱 I’m currently following **BSc (Hons) in Information Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aakilahamed2005](https://github.com/aakilahamed2005)
 
